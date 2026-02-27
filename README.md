@@ -6,6 +6,8 @@ Finding unique art shouldn't feel like a compromise You want artwork that reflec
 Commissioning custom art from a professional is expensive, and doing it yourself feels impossible. 
 You shouldn't have to settle for mass-produced posters just to fill an empty space on your wall.
 
+![Screenshot of printmania app home hero.](https://printmania-img.s3.fr-par.scw.cloud/ext/screenshot.jpeg)
+
 > [!TIP]
 > Your ideas. Museum-quality prints. Zero artistic skills required.<br/>
 
