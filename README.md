@@ -6,7 +6,9 @@ Finding unique art shouldn't feel like a compromise You want artwork that reflec
 Commissioning custom art from a professional is expensive, and doing it yourself feels impossible. 
 You shouldn't have to settle for mass-produced posters just to fill an empty space on your wall.
 
-Your ideas. Museum-quality prints. Zero artistic skills required. PrintMania bridges the gap between digital imagination and physical reality. We combined blazing-fast AI generation with professional-grade physical fulfillment, so you get exactly the art you want in your hands, ready to hang.
+> [!TIP]
+> Your ideas. Museum-quality prints. Zero artistic skills required.
+PrintMania bridges the gap between digital imagination and physical reality. We combined blazing-fast AI generation with professional-grade physical fulfillment, so you get exactly the art you want in your hands, ready to hang.
 
 - **See your ideas instantly**<br/>
 Powered by Gemini 2.5 Flash, watch your descriptions turn into breathtaking, highly-detailed visual concepts in mere seconds.
@@ -15,7 +17,8 @@ We run your creations through a dedicated AI upscaler before printing. This ensu
 - **Delivered right to your door**<br/>
 Choose your frame, pick your size, and checkout. We handle the printing, meticulous packaging, and global shipping.
 
-From thought to wall in 3 simple steps
+<br/>
+From thought to wall in 3 simple steps :
 
 1. **Describe your vision**<br/>
 Type a few words about what you want to see (e.g., "A cyberpunk cafe in Tokyo under the rain" or "Abstract minimalist geometric shapes").
