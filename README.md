@@ -32,10 +32,12 @@ Everything you need to know about your physical prints
 
 **Will the prints look pixelated?**<br/>
 > Never. We use advanced backend AI upscaling to enhance your image resolution before it touches the printer, guaranteeing crisp, gallery-ready details.<br/>
+
 **How long does shipping take?**<br/>
-> Most orders are printed and shipped within 2 to 5 business days via our global fulfillment partner.
+> Most orders are printed and shipped within 2 to 5 business days via our global fulfillment partner.<br/>
+
 **Do I need a monthly subscription?**<br/>
-> No. You only pay for the credits you use to generate ideas and the physical prints you decide to purchase.
+> No. You only pay for the credits you use to generate ideas and the physical prints you decide to purchase.<br/>
 
 Stop staring at blank walls. Give your home the unique, personalized artwork it deserves. Try the image generator for free and see what you can create today.
 
