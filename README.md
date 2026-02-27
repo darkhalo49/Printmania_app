@@ -8,6 +8,7 @@ You shouldn't have to settle for mass-produced posters just to fill an empty spa
 
 > [!TIP]
 > Your ideas. Museum-quality prints. Zero artistic skills required.<br/>
+
 PrintMania bridges the gap between digital imagination and physical reality. We combined blazing-fast AI generation with professional-grade physical fulfillment, so you get exactly the art you want in your hands, ready to hang.
 
 - **See your ideas instantly**<br/>
